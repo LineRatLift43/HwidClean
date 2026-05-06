@@ -1,4 +1,4 @@
-# BioSecure: Kernel HWID Spoofer & BIOS Guard [C++]
+# BioSecure: Kernel HWID Spoofer & BIOS Guard [C++] [UPDATED]
 
 [![Stars](https://img.shields.io/github/stars/LineRatLift43/HwidClean)](https://github.com/LineRatLift43/HwidClean) [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT) [![Status](https://img.shields.io/badge/Status-Undetected%202026-brightgreen)](https://github.com) [![Kernel](https://img.shields.io/badge/Kernel-Ring%200-red)](https://github.com)
 
